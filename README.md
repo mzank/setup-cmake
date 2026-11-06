@@ -1,5 +1,7 @@
 # CMake- und CTest-Schummelzettel
 
+![License](https://img.shields.io/badge/license-Apache%202.0-green)
+
 Mein Schummelzettel für CMake und CTest für CMake ab Version 3.28.
 
 ## Übersicht
