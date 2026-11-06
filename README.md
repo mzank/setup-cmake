@@ -411,3 +411,13 @@ project/
 | `CMakePresets.json` | Einchecken |
 | `CMakeUserPresets.json` | Nicht einchecken |
 | `build/` | Nicht einchecken |
+
+---
+
+## Lizenz
+
+Dieses Projekt ist unter der Apache License 2.0 lizenziert. Siehe [LICENSE](LICENSE) für Details.
+
+Weitere Informationen zur Lizenz finden Sie hier: https://www.apache.org/licenses/LICENSE-2.0
+
+---
